@@ -35,3 +35,7 @@
 **4.Area Under ROC**
 
 <img src = 'Confusion Matrix Anatomy.png'>
+
+<img src = 'Confusion Matrix.png'>
+
+<img src = 'Cross Validation.png'>
