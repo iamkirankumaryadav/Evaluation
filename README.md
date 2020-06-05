@@ -33,3 +33,5 @@
 **3.Classification Report**
 
 **4.Area Under ROC**
+
+<img src = 'Confusion Matrix Anatomy'>
