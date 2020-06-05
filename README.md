@@ -34,4 +34,4 @@
 
 **4.Area Under ROC**
 
-<img src = 'Confusion Matrix Anatomy'>
+<img src = 'Confusion Matrix Anatomy.png'>
